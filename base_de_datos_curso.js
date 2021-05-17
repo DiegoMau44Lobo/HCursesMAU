@@ -57,7 +57,7 @@ export const cursos = [
 
     {
         titulo_curso: "Interfaces gráficas y aplicaciones de escritorio con Tkinter",
-        imagen_curso: "/imagenes_pagina/img-tkinter.jpg",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-tkinter.jpg",
         descripcion_curso: "Domina la teoría y las herramientas para convertirte en un diseñador de mockups y prototipos para web y aplicaciones.",
         enlace_youtube: "https://www.youtube.com/watch?v=9ZZ0iLtF9k4&list=PLygVLLavW39no5aYoh-MV7e59pMnh4uAm&index=120",
         enlace_archivos: "https://drive.google.com/drive/folders/14MukEzjYBo6njWh7V7pZKLl6FIepz4Zx?usp=sharing"

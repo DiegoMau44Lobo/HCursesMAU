@@ -102,6 +102,11 @@ export const cursos = [
         enlace_youtube: "https://www.youtube.com/playlist?list=PLygVLLavW39ll6N3G5ubKq_2FUl1ha012",
         enlace_archivos: "https://drive.google.com/drive/folders/1Z1RcaDhC0QPcRB_eM6PYCxpso7azb39C?usp=sharing"
     },
+    {
+        titulo_curso: "Full Stack JavaScript Developer en Español",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-javascript_fullstack.jpg",
+        descripcion_curso: "Aprende desde HTML, Javascript, ajax, nodejs, vuejs, react js, rest APIs y GraphQL.",
+        enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39n0qayQ7y9hLPEHBAHdnm9Z",
+        enlace_archivos: "https://drive.google.com/drive/folders/1kVqI-Chhst7QyMvFooDwmIGznDCTTE8P?usp=sharing"
+    },
 ]
-
-

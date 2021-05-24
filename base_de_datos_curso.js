@@ -92,7 +92,7 @@ export const cursos = [
         imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-SQL.jpg",
         descripcion_curso: "2021: El curso de SQL que te da más valor: Aprenderás cómo hacer consultas SQL desde básicas hasta complejas.",
         enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39nfYadrWfS8quvjZU_XVMZl",
-        enlace_archivos: "https://drive.google.com/drive/folders/1TZIWdn2VZdBJolb5sapV2wQoNg-NTQK5?usp=sharing"
+        enlace_archivos: "https://drive.google.com/drive/folders/1m42JrtrQBL9S6_78aPMDH7hGveGnkFCE?usp=sharing"
     },
 
     {
@@ -102,11 +102,20 @@ export const cursos = [
         enlace_youtube: "https://www.youtube.com/playlist?list=PLygVLLavW39ll6N3G5ubKq_2FUl1ha012",
         enlace_archivos: "https://drive.google.com/drive/folders/1Z1RcaDhC0QPcRB_eM6PYCxpso7azb39C?usp=sharing"
     },
+
     {
         titulo_curso: "Full Stack JavaScript Developer en Español",
         imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-javascript_fullstack.jpg",
         descripcion_curso: "Aprende desde HTML, Javascript, ajax, nodejs, vuejs, react js, rest APIs y GraphQL.",
         enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39n0qayQ7y9hLPEHBAHdnm9Z",
         enlace_archivos: "https://drive.google.com/drive/folders/1kVqI-Chhst7QyMvFooDwmIGznDCTTE8P?usp=sharing"
+    },
+
+    {
+        titulo_curso: "Acortador de Links con Python, MySQL, Bootstrap y JavaScript",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-acortador.jpg",
+        descripcion_curso: "Crea tu Propio Sitio Web para acortar enlaces web con Python, Flask, MySql, Bootstrap, Jinja2, JavaScript, HTML y más!.",
+        enlace_youtube: "https://www.youtube.com/playlist?list=PLygVLLavW39ni_xdxarXXUvIeNKj5CEAr",
+        enlace_archivos: "https://drive.google.com/drive/folders/1D_7Z4kxcnpIeV1MPnciN2zK9Sih9uW_G?usp=sharing"
     },
 ]

@@ -24,10 +24,15 @@ class Cartas_cursos {
     getEnlace_youtube(){return this.enlace_youtube}
     getEnlace_archivos(){return this.enlace_archivos}
 
-    renderizar_carta(){
+    renderizar_carta(cartas_tipo){
         var modelo_card_curso = document.querySelectorAll(".modelo_card_curso > #container")[0];
-        var container_cards = document.querySelectorAll("#container_cards > .row")[0];
-        
+
+        if(cartas_tipo == "cartas_hoy"){
+            var container_cards = document.querySelectorAll("#container_cards > .row")[0];
+        }else if(cartas_tipo == "cartas_otras"){
+            var container_cards = document.querySelectorAll("#container_cards > .accordion > div > div .row")[0];
+        }
+
         var nueva_carta = modelo_card_curso.cloneNode(true);
         nueva_carta.classList.remove("d-none");
     
@@ -91,29 +96,15 @@ function renderizar_ordenado(base_datos){
         
         
         if(nueva_carta.hoy_toca()){
-            nueva_carta.renderizar_carta();
+            nueva_carta.renderizar_carta("cartas_hoy");
+        }else{
+            nueva_carta.renderizar_carta("cartas_otras")
         }
     }
-
-    // for(var i=0; i<base_datos.length; i++){
-    //     var carta_datos = base_datos[i];
-    //     var nueva_carta = new Cartas_cursos(
-    //         carta_datos.titulo_curso,
-    //         carta_datos.imagen_curso,
-    //         carta_datos.descripcion_curso,
-    //         carta_datos.enlace_youtube,
-    //         carta_datos.enlace_archivos,
-    //         carta_datos.dia_semana,
-    //     )
-        
-        
-    //     if(nueva_carta.hoy_toca() == false){
-    //         nueva_carta.renderizar_carta();
-    //     }
-    // }
 } 
 
 renderizar_ordenado(cursos)
+
 
         
         

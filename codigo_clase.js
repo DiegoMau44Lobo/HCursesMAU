@@ -56,7 +56,7 @@ class Cartas_cursos {
         var dias_de_la_semana ={
             1:"Lunes",
             2:"Martes",
-            3:"Miercoles",
+            3:"Miércoles",
             4:"Jueves",
             5:"Viernes",
             6:"Sabado",
@@ -93,7 +93,6 @@ function renderizar_ordenado(base_datos){
             carta_datos.enlace_archivos,
             carta_datos.dia_semana,
         )
-        
         
         if(nueva_carta.hoy_toca()){
             nueva_carta.renderizar_carta("cartas_hoy");

@@ -143,4 +143,13 @@ export const cursos = [
         enlace_archivos: "https://drive.google.com/drive/folders/1qBIp_xCkh-7t2H0Ng30J0pnQJJ8TizI_?usp=sharing",
         dia_semana:["Domingo,Domingo"]
     },
+
+    {
+        titulo_curso: "Curso completo de Machine Learning: Data Science en Python",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-curso_machine.jpg",
+        descripcion_curso: "Aprende los algoritmos de Machine Learning con Python para convertirte en un Data Science con todo el código para usar",
+        enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39n9bD_0mnM2sbvkzkmUJ3dI",
+        enlace_archivos: "https://drive.google.com/drive/folders/1bwyn2D0TSwqUHLIveBucs1gB4tfPtGez?usp=sharing",
+        dia_semana:["Miércoles","Sábado"]
+    },
 ]

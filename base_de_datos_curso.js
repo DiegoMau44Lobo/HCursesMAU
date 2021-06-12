@@ -113,7 +113,7 @@ export const cursos = [
         descripcion_curso: "Domina la teoría y las herramientas para convertirte en un diseñador de mockups y prototipos para web y aplicaciones.",
         enlace_youtube: "https://www.youtube.com/watch?v=sbiDvWFe37k&list=PLygVLLavW39no5aYoh-MV7e59pMnh4uAm&index=295",
         enlace_archivos: "https://drive.google.com/drive/folders/14MukEzjYBo6njWh7V7pZKLl6FIepz4Zx?usp=sharing",
-        dia_semana:["Domingo"]
+        dia_semana:["Domingo,Domingo"]
     },
 
     {
@@ -122,7 +122,7 @@ export const cursos = [
         descripcion_curso: "Aprende técnicas y herramientas para realizar ataques informáticos a sitios web con el fin de detectar y corregir vulnerabilidades. Conviértete en un Hacker Ético y contribuye a lograr una mayor Seguridad Informática en internet con este increíble curso de Platzi.",
         enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39mcxHe7I7im7Y0wcqs8nrJ-",
         enlace_archivos: "https://drive.google.com/drive/folders/1TZIWdn2VZdBJolb5sapV2wQoNg-NTQK5?usp=sharing",
-        dia_semana:["Domingo"]
+        dia_semana:["Domingo,Domingo"]
     },
 
 
@@ -132,6 +132,15 @@ export const cursos = [
         descripcion_curso: "Crea tu Propio Sitio Web para acortar enlaces web con Python, Flask, MySql, Bootstrap, Jinja2, JavaScript, HTML y más!.",
         enlace_youtube: "https://www.youtube.com/playlist?list=PLygVLLavW39ni_xdxarXXUvIeNKj5CEAr",
         enlace_archivos: "https://drive.google.com/drive/folders/1D_7Z4kxcnpIeV1MPnciN2zK9Sih9uW_G?usp=sharing",
-        dia_semana:["Domingo"]
+        dia_semana:["Domingo,Domingo"]
+    },
+
+    {
+        titulo_curso: "Curso Profesional de Git y GitHub",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-curso_git_github.jpg",
+        descripcion_curso: "Deja de versionar tus proyectos usando tu propio sistema de control de versiones",
+        enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39kKXHLq3RomWbP-tkPvyqA0",
+        enlace_archivos: "https://drive.google.com/drive/folders/1qBIp_xCkh-7t2H0Ng30J0pnQJJ8TizI_?usp=sharing",
+        dia_semana:["Domingo,Domingo"]
     },
 ]

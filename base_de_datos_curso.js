@@ -155,7 +155,7 @@ export const cursos = [
     
     {
         titulo_curso: "Curso maestro de Web Scraping: Extracción de Datos de la Web",
-        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-acortador.jpg",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-web_scrapping.jpg",
         descripcion_curso: "Web Scraping en Python | Extracción de 16 sitios web | 5 librerías | Programación desde CERO | ¡TODO EN UN SOLO CURSO!",
         enlace_youtube: "https://www.youtube.com/playlist?list=PLygVLLavW39m-f9VHPf4yq1WGuiQDe5T4",
         enlace_archivos: "https://drive.google.com/drive/folders/1Xj-D9GhfH4B7vQrm0lZMq-4dJkhPaSa5?usp=sharing",

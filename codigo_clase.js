@@ -59,7 +59,7 @@ class Cartas_cursos {
             3:"Miércoles",
             4:"Jueves",
             5:"Viernes",
-            6:"Sabado",
+            6:"Sábado",
             7:"Domingo"
         };
 

@@ -161,4 +161,12 @@ export const cursos = [
         enlace_archivos: "https://drive.google.com/drive/folders/1Xj-D9GhfH4B7vQrm0lZMq-4dJkhPaSa5?usp=sharing",
         dia_semana:["Domingo","Domingo"]
     },
+    {
+        titulo_curso: "Máster en SQL Server: Desde Cero a Nivel Profesional 2021",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-sql-server.png",
+        descripcion_curso: "SQL Aprende Bases de Datos, Consultas, Funciones, Tablas y Permisos. Diseña y Programa una Base de Datos Relacional SQL.",
+        enlace_youtube: "https://www.youtube.com/playlist?list=PLygVLLavW39mSSbUByeJw7R-u_DzF2b-4",
+        enlace_archivos: "https://drive.google.com/drive/folders/1yyGb5Dl76lLNoTQmBxMYxTY5pjKUp5F6?usp=sharing",
+        dia_semana:["Domingo","Domingo"]
+    },
 ]

@@ -53,6 +53,7 @@ class Cartas_cursos {
     }
 
     hoy_toca(){
+        /*
         var dias_de_la_semana ={
             1:"Lunes",
             2:"Martes",
@@ -66,15 +67,15 @@ class Cartas_cursos {
         var fecha = new Date();
         var dia_hoy = fecha.getDay()
         dia_hoy = dias_de_la_semana[dia_hoy]
-        
+        */
         var toca_hoy = false;
 
         for (var i=0; i<this.dia_semana.length ; i++){
-            if (this.dia_semana[i] == dia_hoy){
+            if (this.dia_semana[i] == "Lunes a Sábado"){
                 toca_hoy = true;
             }
         }
-
+        
         return toca_hoy;
     }
 

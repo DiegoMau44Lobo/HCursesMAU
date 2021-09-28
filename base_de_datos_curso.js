@@ -169,4 +169,12 @@ export const cursos = [
         enlace_archivos: "https://drive.google.com/drive/folders/1yyGb5Dl76lLNoTQmBxMYxTY5pjKUp5F6?usp=sharing",
         dia_semana:["Domingo","Domingo"]
     },
+    {
+        titulo_curso: "Aprende Programación en C++ (Básico - Intermedio - Avanzado)",
+        imagen_curso: "https://raw.githubusercontent.com/Diego44Mau/HCurses/main/imagenes_pagina/img-sql-server.png",
+        descripcion_curso: "Si eres un apasionado de la programación, este curso te interesa. aprenderás desde las bases hasta lo avanzado en C++.",
+        enlace_youtube: "https://www.youtube.com/watch?v=vA1BbYHBN_Q&list=PLygVLLavW39n63M8ue79yd6QVvAdXeRHj",
+        enlace_archivos: "",
+        dia_semana:["Domingo","Domingo"]
+    },
 ]

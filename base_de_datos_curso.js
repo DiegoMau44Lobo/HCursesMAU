@@ -179,7 +179,7 @@ export const cursos = [
     },
     {
         titulo_curso: "Curso: Laravel 8 desde cero",
-        imagen_curso: "https://github.com/DiegoMau44Lobo/HCursesMAU/blob/main/imagenes_pagina/img-laravel_8_edt.jpg",
+        imagen_curso: "https://raw.githubusercontent.com/DiegoMau44Lobo/HCursesMAU/main/imagenes_pagina/img-laravel_8_edt.jpg",
         descripcion_curso: "Domina el framework más usado y amigable de PHP en su última versión.",
         enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39lRNQGZxAr9NUP5J9MhOjaw",
         enlace_archivos: "https://drive.google.com/drive/folders/1H7RvwqlGxcsixRveEAJhA0xq5YDBlBks?usp=sharing",

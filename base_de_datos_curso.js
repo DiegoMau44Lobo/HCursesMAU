@@ -185,4 +185,12 @@ export const cursos = [
         enlace_archivos: "https://drive.google.com/drive/folders/1H7RvwqlGxcsixRveEAJhA0xq5YDBlBks?usp=sharing",
         dia_semana:["Domingo","Domingo"]
     },
+        {
+        titulo_curso: "Curso: PHP Desde Cero",
+        imagen_curso: "https://raw.githubusercontent.com/DiegoMau44Lobo/HCursesMAU/main/imagenes_pagina/img-laravel_8_edt.jpg",
+        descripcion_curso: "Aprende PHP, el lenguaje de programación backend más importante de toda la web.",
+        enlace_youtube: "https://youtube.com/playlist?list=PLygVLLavW39mDXxsc9kS1C7h7Rjc1cqU9",
+        enlace_archivos: "https://drive.google.com/drive/folders/1nX45S6GMgznHKhubjuD-GIk5gSu0mg86?usp=sharing",
+        dia_semana:["Domingo","Domingo"]
+    },
 ]
